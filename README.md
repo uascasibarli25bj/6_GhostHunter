@@ -1,4 +1,4 @@
-#GhostHunter VR Proiektua
+# GhostHunter VR Proiektua
 
 Youtubeko bidoa jarraituz egindako proiektua.
   - Youtubeko URLa: https://www.youtube.com/watch?v=pZ5vLcyjois
